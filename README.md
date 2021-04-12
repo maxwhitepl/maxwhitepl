@@ -14,14 +14,11 @@ Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece.
 <br />
 
 ### My tools and favourite languages 
-<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/eramsorgr/eramsorgr/blob/master/NodeJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://vuejs.org/"><img align="left" alt="Vue" src="https://github.com/eramsorgr/eramsorgr/blob/master/VueJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://code.visualstudio.com/insiders/"><img align="left" alt="Visual Studio Code" src="https://github.com/eramsorgr/eramsorgr/blob/master/VSCI-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
- <a src="https://www.jetbrains.com/"><img align="left" alt="Jetbrains" src="https://github.com/eramsorgr/eramsorgr/blob/master/jetbrains.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://www.jetbrains.com/webstorm/"><img align="left" alt="Jetbrains WebStorm" src="https://github.com/eramsorgr/eramsorgr/blob/master/webstorm-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://www.jetbrains.com/datagrip/"><img align="left" alt="Jetbrains DataGrip" src="https://github.com/eramsorgr/eramsorgr/blob/master/datagrip-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://www.jetbrains.com/idea/"><img align="left" alt="Jetbrains IntelliJ IDEA" src="https://github.com/eramsorgr/eramsorgr/blob/master/intellij-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://www.jetbrains.com/rider/"><img align="left" alt="Jetbrains Rider" src="https://github.com/eramsorgr/eramsorgr/blob/master/rider-icon-logo.png?raw=true" height="30px" width="30px"/><a/>
+<img align="left" alt="NodeJS" src="https://i.imgur.com/DRFCqqV.png" height="30px" width="30px"/><a/>
+<img align="left" alt="Vue" src="https://i.imgur.com/h0lfVR3.png" height="30px" width="30px"/><a/>
+<img align="left" alt="Visual Studio Code" src="https://i.imgur.com/dnErvfD.png" height="30px" width="30px"/><a/>
+<img align="left" alt="HTML" src="https://i.imgur.com/IWabrlY.png" height="30px" width="30px"/><a/>
+<img align="left" alt="CSS" src="https://i.imgur.com/EO03UPO.png" height="30px" width="30px"/><a/>
 <br />
 <br />
 
