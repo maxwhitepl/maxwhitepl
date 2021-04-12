@@ -1,15 +1,15 @@
 ## Hey there! 👋 I am eramsorgr! 
 
-Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece. 
+Welcome to my GitHub profile. My name is Max White and I am a developer ExtremeOnly from Poland. 
 <br />
 
 ### Get in touch with me on:
-<img align="left" alt="Discord" src="https://github.com/eramsorgr/eramsorgr/blob/master/Discord-Logo-Color.png?raw=true" height="30px" width="30px"/>[Discord](https://discord.gg/jbxuKRZ)
+<img align="left" alt="Discord" src="https://i.imgur.com/iG1nUnq.png" height="30px" width="30px"/>[Discord](https://discord.gg/WVmBPty)
 <br />
 <br />
 
 ### Like my work? 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z81PVKJ)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=SFEBCGPLF95PQ)
 <br />
 <br />
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece.
 <br />
 
 ### Some stats about me
-![Stats](https://github-readme-stats.vercel.app/api?username=zabujca997&show_icons=true&count_private=true&theme=cobalt)
+![Stats](https://github-readme-stats.vercel.app/api?username=zabujca997&show_icons=true&count_private=true&theme=cobalt)<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zabujca997&layout=compact&theme=cobalt)
 
 
@@ -32,12 +32,12 @@ Welcome to my GitHub profile. My name is Nikos and I am a developer from Greece.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on SCP-RP
+- 🌱 I’m currently learning Garry's mod source
+- 👯 I’m looking to collaborate on ExtremeOnly / SCP-RP
+- 🤔 I’m looking for help with WWW
+- 💬 Ask me about SCP-RP
+- 📫 How to reach me: Priv job
+- 😄 Pronouns: What?
+- ⚡ Fun fact: SCP is real
 -->
