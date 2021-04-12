@@ -1,4 +1,4 @@
-## Hey there! 👋 I am eramsorgr! 
+## Hey there! 👋 I am Max White! 
 
 Welcome to my GitHub profile. My name is Max White and I am a developer ExtremeOnly from Poland. 
 <br />
