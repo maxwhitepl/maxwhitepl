@@ -42,4 +42,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: SCP is real
 -->
 
-[![Max White](https://github-readme-stats.vercel.app/api?username=Zabujca997)](https://github.com/Zabujca997)
