@@ -50,8 +50,8 @@
 <p><a href="https://www.buymeacoffee.com/ExtremeOnly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ExtremeOnly" /></a></p><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabujca997&show_icons=true&locale=en&layout=compact" alt="zabujca997" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabujca997&show_icons=true&locale=en&layout=compact" alt="zabujca997" /></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabujca997&show_icons=true&locale=en" alt="zabujca997" /></p><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabujca997&show_icons=true&locale=en" alt="zabujca997" /></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabujca997&" alt="zabujca997" /></p>
