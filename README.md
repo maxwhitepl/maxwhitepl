@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=extremeonly&label=Profile%20views&color=0e75b6&style=flat" alt="zabujca997" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=extremeonly" alt="ExtremeOnly" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/extremegamesetg" target="blank"><img src="https://img.shields.io/twitter/follow/extremegamesetg?logo=twitter&style=for-the-badge" alt="extremegamesetg" /></a> </p>
 
 - 🔭 I’m currently working on [ExtremeOnly](https://github.com/ExtremeOnly)
@@ -48,10 +46,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ExtremeOnly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ExtremeOnly" /></a></p><br><br><br><br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=extremeonly&show_icons=true&locale=en&layout=compact" alt="Extremeonly" /></p><br><br><br><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=extremeonly&show_icons=true&locale=en" alt="ExtremeOnly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extremeonly&" alt="ExtremeOnly" /></p>
