@@ -15,15 +15,15 @@
 
 - 🤝 I’m help with [Skript](https://github.com/SkriptLang/Skript/pull/4891)
 
-- 👨‍💻 All of my projects are available at [https://ExtremeOnly.cf/MaxWhite](https://ExtremeOnly.cf/MaxWhite)
+- 👨‍💻 All of my projects are available at [https://ExtremeOnly.it/MaxWhite](https://ExtremeOnly.it/MaxWhite)
 
 - 📝 I regularly write on discord [Max White#8603](Max White#8603)
 
 - 💬 Ask me about **Servers, ExtremeOnly, Work**
 
-- 📫 How to reach me **Admin@ExtremeOnly.cf**
+- 📫 How to reach me **MaxWhite@ExtremeOnly.it**
 
-- 📄 Know about my experiences [https://ExtremeOnly.cf/](https://ExtremeOnly.cf/)
+- 📄 Know about my experiences [https://ExtremeOnly.it/](https://ExtremeOnly.it/)
 
 - ⚡ Fun fact **I hard work men in my servers**
 
