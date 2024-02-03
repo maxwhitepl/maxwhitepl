@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></a> </p>
 
-- 🔭 I’m currently working on [ExtremeOnly](https://github.com/phenixhosting)
+- 🔭 I’m currently working on [PhenixHosting](https://github.com/phenixhosting)
 
 - 🌱 I’m currently learning **Framework, New Language**
 
