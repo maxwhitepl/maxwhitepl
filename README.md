@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwhitepl&label=Profile%20views&color=0e75b6&style=flat&locale=pl" alt="maxwhitepl" /> </p>
+[![wakatime](https://wakatime.com/badge/user/018d6c6e-78e3-4655-ac40-c2b417965955/project/018d6c74-0864-40c9-9df7-282785e16517.svg)](https://wakatime.com/badge/user/018d6c6e-78e3-4655-ac40-c2b417965955/project/018d6c74-0864-40c9-9df7-282785e16517)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></a> </p>
 
