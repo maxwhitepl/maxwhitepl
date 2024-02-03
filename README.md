@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Max White</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zabujca997&label=Profile%20views&color=0e75b6&style=flat" alt="zabujca997" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwhitepl&label=Profile%20views&color=0e75b6&style=flat&locale=pl" alt="maxwhitepl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabujca997" alt="zabujca997" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/extremegamesetg" target="blank"><img src="https://img.shields.io/twitter/follow/extremegamesetg?logo=twitter&style=for-the-badge" alt="extremegamesetg" /></a> </p>
-
-- 🔭 I’m currently working on [ExtremeOnly](https://github.com/ExtremeOnly)
+- 🔭 I’m currently working on [ExtremeOnly](https://github.com/phenixhosting)
 
 - 🌱 I’m currently learning **Framework, New Language**
 
@@ -15,17 +13,19 @@
 
 - 🤝 I’m help with [Skript](https://github.com/SkriptLang/Skript/pull/4891)
 
-- 👨‍💻 All of my projects are available at [https://ExtremeOnly.it/MaxWhite](https://ExtremeOnly.it/MaxWhite)
+- 🤝 I’m help with [WemxPro](https://github.com/WemXPro/languages/pull/12)
+
+- 👨‍💻 All of my projects are available at [https://phenixhosting.pl/MaxWhite](https://phenixhosting.pl/MaxWhite)
 
 - 📝 I regularly write on discord [Max White#8603](Max White#8603)
 
-- 💬 Ask me about **Servers, ExtremeOnly, Work**
+- 💬 Ask me about **Servers, PhenixHosting, Work, Game, VPS**
 
-- 📫 How to reach me **MaxWhite@ExtremeOnly.it**
+- 📫 How to reach me **MaxWhite@PhenixHosting.pl**
 
-- 📄 Know about my experiences [https://ExtremeOnly.it/](https://ExtremeOnly.it/)
+- 📄 Know about my experiences [https://PhenixHosting.pl/](https://PhenixHosting.pl/)
 
-- ⚡ Fun fact **I hard work men in my servers**
+- ⚡ Fun fact **I hard work at my own bussines in my servers**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,12 +35,11 @@
 <p align="left">
 <a href="https://codepen.io/maxwhitepl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maxwhitepl" height="30" width="40" /></a>
 <a href="https://dev.to/maxwhitepl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maxwhitepl" height="30" width="40" /></a>
-<a href="https://twitter.com/extremegamesetg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="extremegamesetg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patryk-krekora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patryk-krekora" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/70465103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patryk-krekora" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16153870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16153870" height="30" width="40" /></a>
-<a href="https://fb.com/extremeonlyfanpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="extremeonlyfanpage" height="30" width="40" /></a>
-<a href="https://instagram.com/extremeonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extremeonly" height="30" width="40" /></a>
-<a href="https://discord.gg/pmK8fkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pmK8fkt" height="30" width="40" /></a>
+<a href="https://facebook.com/phenixhostingpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="extremeonlyfanpage" height="30" width="40" /></a>
+<a href="https://instagram.com/phenixhosting" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extremeonly" height="30" width="40" /></a>
+<a href="https://discord.gg/sqvEf239AV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sqvEf239AV" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,9 +48,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ExtremeOnly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ExtremeOnly" /></a></p><br><br><br><br>
 
+[![PhenixHosting](https://github-readme-stats.vercel.app/api/pin/?username=maxwhitepl&repo=CS-PB)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabujca997&show_icons=true&locale=en&layout=compact" alt="zabujca997" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwhitepl&show_icons=true&locale=pl&layout=compact&theme=onedark" alt="maxwhitepl" /></p><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabujca997&show_icons=true&locale=en" alt="zabujca997" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwhitepl&show_icons=true&locale=pl&theme=onedark" alt="maxwhitepl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zabujca997&" alt="zabujca997" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwhitepl&theme=onedark" alt="maxwhitepl" /></p>
+
+[![Max White](https://github-readme-stats.vercel.app/api/wakatime?username=maxwhitepl)](https://github.com/maxwhitepl)
