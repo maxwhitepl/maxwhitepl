@@ -17,9 +17,9 @@
 
 - 🤝 I’m help with [WemxPro](https://github.com/WemXPro/languages/pull/12)
 
-- 👨‍💻 All of my projects are available at [https://phenixhosting.pl/MaxWhite](https://phenixhosting.pl/MaxWhite)
+- 👨‍💻 All of my projects are available at [Phenixhosting.pl/MaxWhite](https://phenixhosting.pl/MaxWhite)
 
-- 📝 I regularly write on discord [Max White#8603](Max White#8603)
+- 📝 I regularly write on discord [Maxwhitepl](discord.gg/sqvEf239AV)
 
 - 💬 Ask me about **Servers, PhenixHosting, Work, Game, VPS**
 
