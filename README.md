@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwhitepl&label=Profile%20views&color=0e75b6&style=flat&locale=pl" alt="maxwhitepl" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/018d6c6e-78e3-4655-ac40-c2b417965955.svg)](https://wakatime.com/@018d6c6e-78e3-4655-ac40-c2b417965955)
+[![wakatime](https://wakatime.com/badge/github/maxwhitepl/maxwhitepl.svg)](https://wakatime.com/badge/github/maxwhitepl/maxwhitepl)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></a> </p>
 
