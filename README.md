@@ -56,6 +56,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwhitepl&show_icons=true&locale=pl&theme=onedark" alt="maxwhitepl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwhitepl&theme=onedark" alt="maxwhitepl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></p>
 
 [![Max White](https://github-readme-stats.vercel.app/api/wakatime?username=maxwhitepl)](https://github.com/maxwhitepl)
