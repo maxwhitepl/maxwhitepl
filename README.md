@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max White</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h3 align="center">A passionate Programmer, developer, creator from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwhitepl&label=Profile%20views&color=0e75b6&style=flat&locale=pl" alt="maxwhitepl" /> </p>
 
@@ -16,6 +16,8 @@
 - 🤝 I’m help with [Skript](https://github.com/SkriptLang/Skript/pull/4891)
 
 - 🤝 I’m help with [WemxPro](https://github.com/WemXPro/languages/pull/12)
+
+- 🤝 I’m Translated [RimHud](https://github.com/Jaxe-Dev/RimHUD/pull/19)
 
 - 👨‍💻 All of my projects are available at [Phenixhosting.pl/MaxWhite](https://phenixhosting.pl/MaxWhite)
 
@@ -50,9 +52,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ExtremeOnly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ExtremeOnly" /></a></p><br><br><br><br>
 
+<h3 align="left">Statistic:</h3>
+
 [![PhenixHosting](https://github-readme-stats.vercel.app/api/pin/?username=maxwhitepl&repo=CS-PB)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwhitepl&show_icons=true&locale=pl&layout=compact&theme=onedark" alt="maxwhitepl" /></p><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwhitepl&show_icons=true&locale=pl&layout=compact&theme=onedark" alt="maxwhitepl" /></p><br><br><br><br><br><br><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwhitepl&show_icons=true&locale=pl&theme=onedark" alt="maxwhitepl" /></p>
 
