@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Servers, PhenixHosting, Work, Game, VPS**
 
-- 📫 How to reach me **MaxWhite@PhenixHosting.pl**
+- 📫 How to reach me **MaxWhite@PhenixHosting.eu**
 
 - 📄 Know about my experiences [https://PhenixHosting.eu/](https://PhenixHosting.eu/)
 
