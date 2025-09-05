@@ -19,7 +19,7 @@
 
 - 🤝 I’m Translated [RimHud](https://github.com/Jaxe-Dev/RimHUD/pull/19)
 
-- 👨‍💻 All of my projects are available at [Phenixhosting.pl/MaxWhite](https://phenixhosting.pl/MaxWhite)
+- 👨‍💻 All of my projects are available at [Phenixhosting.eu/MaxWhite](https://phenixhosting.eu/MaxWhite)
 
 - 📝 I regularly write on discord [Maxwhitepl](discord.gg/sqvEf239AV)
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **MaxWhite@PhenixHosting.pl**
 
-- 📄 Know about my experiences [https://PhenixHosting.pl/](https://PhenixHosting.pl/)
+- 📄 Know about my experiences [https://PhenixHosting.eu/](https://PhenixHosting.eu/)
 
 - ⚡ Fun fact **I hard work at my own bussines in my servers**
 
