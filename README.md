@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Max White</h1>
 <h3 align="center">A passionate Programmer, developer, creator from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwhitepl&label=Profile%20views&color=0e75b6&style=flat&locale=pl" alt="maxwhitepl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwhitepl&label=Profile%20views&color=0e75b6&style=flat&locale=pl" alt="maxwhitepl" />
 
 [![wakatime](https://wakatime.com/badge/github/maxwhitepl/maxwhitepl.svg)](https://wakatime.com/badge/github/maxwhitepl/maxwhitepl)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></a> </p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maxwhitepl&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=maxwhitepl&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maxwhitepl&layout=compact&theme=dark)
+
+<br>
 
 - 🔭 I’m currently working on [PhenixHosting](https://github.com/phenixhosting)
+
+- 🔭 I’m currently working on [Space Station 14](https://github.com/space-wizards/space-station-14)
 
 - 🌱 I’m currently learning **Framework, New Language**
 
@@ -54,12 +60,6 @@
 
 <h3 align="left">Statistic:</h3>
 
-[![PhenixHosting](https://github-readme-stats.vercel.app/api/pin/?username=maxwhitepl&repo=CS-PB)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxwhitepl&show_icons=true&locale=pl&layout=compact&theme=onedark" alt="maxwhitepl" /></p><br><br><br><br><br><br><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxwhitepl&show_icons=true&locale=pl&theme=onedark" alt="maxwhitepl" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxwhitepl&theme=onedark&locale=pl" alt="maxwhitepl" /></p>
 
-[![Max White](https://github-readme-stats.vercel.app/api/wakatime?username=maxwhitepl)](https://github.com/maxwhitepl)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=maxwhitepl&theme=dark)
