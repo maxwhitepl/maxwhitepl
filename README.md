@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [Phenixhosting.eu/MaxWhite](https://phenixhosting.eu/MaxWhite)
 
-- 📝 I regularly write on discord [Maxwhitepl](discord.gg/sqvEf239AV)
+- 📝 I regularly write on discord [Maxwhitepl](https://discord.gg/sqvEf239AV)
 
 - 💬 Ask me about **Servers, PhenixHosting, Work, Game, VPS**
 
